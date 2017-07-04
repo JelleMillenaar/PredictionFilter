@@ -1,0 +1,2 @@
+OriginalSNR: 44.798893
+FilteredSNR: 88.789772

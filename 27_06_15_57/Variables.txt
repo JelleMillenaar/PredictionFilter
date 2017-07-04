@@ -1,0 +1,14 @@
+SampleRate: 
+LowBinFrequency: 2.750000e+01
+HighBinFrequency: 
+BinCount: 
+LowBinModulationFrequency: 5.000000e-01
+HighBinModulationFrequency: È
+ModulationBinCount: 
+HertzPerHalving: 
+ModulationHertzPerHalving: 
+FrequencyThreshold: 2.000000e-01
+TotalThreshold: 
+MinSpeechAreaDistance: 
+NoiseAudioFile: Fast running river.wav
+TargetAudioFile: f1lcapae.wav
